@@ -83,16 +83,9 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/etc/firmware/sensorhubver.txt:system/etc/firmware/sensorhubver.txt \
     vendor/motorola/otus/proprietary/etc/firmware/synaptics-boe-s2316-15020301-175833-otus.tdat:system/etc/firmware/synaptics-boe-s2316-15020301-175833-otus.tdat \
     vendor/motorola/otus/proprietary/etc/firmware/synaptics-inx-s2316-15020302-175833-otus.tdat:system/etc/firmware/synaptics-inx-s2316-15020302-175833-otus.tdat \
-    vendor/motorola/otus/proprietary/etc/firmware/wlan/prima/WCNSS_cfg.dat:system/etc/firmware/wlan/prima/WCNSS_cfg.dat \
-    vendor/motorola/otus/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_cfg.ini:system/etc/firmware/wlan/prima/WCNSS_qcom_cfg.ini \
     vendor/motorola/otus/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin:system/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin \
-    vendor/motorola/otus/proprietary/etc/init.ath3k.bt.sh:system/etc/init.ath3k.bt.sh \
-    vendor/motorola/otus/proprietary/etc/init.crda.sh:system/etc/init.crda.sh \
-    vendor/motorola/otus/proprietary/etc/init.qcom.audio.sh:system/etc/init.qcom.audio.sh \
-    vendor/motorola/otus/proprietary/etc/init.qcom.bt.sh:system/etc/init.qcom.bt.sh \
     vendor/motorola/otus/proprietary/etc/init.qcom.coex.sh:system/etc/init.qcom.coex.sh \
     vendor/motorola/otus/proprietary/etc/init.qcom.efs.sync.sh:system/etc/init.qcom.efs.sync.sh \
-    vendor/motorola/otus/proprietary/etc/init.qcom.fm.sh:system/etc/init.qcom.fm.sh \
     vendor/motorola/otus/proprietary/etc/init.qcom.modem_links.sh:system/etc/init.qcom.modem_links.sh \
     vendor/motorola/otus/proprietary/etc/init.qcom.post_boot.sh:system/etc/init.qcom.post_boot.sh \
     vendor/motorola/otus/proprietary/etc/init.qcom.sdio.sh:system/etc/init.qcom.sdio.sh \
