@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<permissions>
+    <!-- Don't allow IME switching in the alarm clock -->
+    <fixed-ime-app package="com.google.android.deskclock" />
+    <!-- Need to include the original package name to handle upgrades -->
+    <fixed-ime-app package="com.android.deskclock" />
+</permissions>

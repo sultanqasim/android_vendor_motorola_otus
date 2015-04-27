@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<permissions>
+   <!-- Uses the ScreenON / OFF architecture of MotoDisplay. FOR FULL DISPLAY based Devices ONLY-->
+    <feature name="com.motorola.software.motodisplay.fd.screenoff" />
+    <permission name="com.motorola.motodisplay.permission.PARTIAL_DISPLAY" >
+        <group gid="compass" />
+        <group gid="graphics" />
+    </permission>
+</permissions>
+
