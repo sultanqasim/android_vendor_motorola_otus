@@ -84,6 +84,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/etc/firmware/synaptics-boe-s2316-15020301-175833-otus.tdat:system/etc/firmware/synaptics-boe-s2316-15020301-175833-otus.tdat \
     vendor/motorola/otus/proprietary/etc/firmware/synaptics-inx-s2316-15020302-175833-otus.tdat:system/etc/firmware/synaptics-inx-s2316-15020302-175833-otus.tdat \
     vendor/motorola/otus/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin:system/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin \
+    vendor/motorola/otus/proprietary/etc/gps.conf:system/etc/gps.conf \
     vendor/motorola/otus/proprietary/etc/izat.conf:system/etc/izat.conf \
     vendor/motorola/otus/proprietary/etc/permissions/com.motorola.android.tcmd.xml:system/etc/permissions/com.motorola.android.tcmd.xml \
     vendor/motorola/otus/proprietary/etc/permissions/com.motorola.motodisplay.fd.screenoff.xml:system/etc/permissions/com.motorola.motodisplay.fd.screenoff.xml \
@@ -92,7 +93,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/etc/permissions/com.qcom.fmradio.xml:system/etc/permissions/com.qcom.fmradio.xml \
     vendor/motorola/otus/proprietary/etc/permissions/com.qualcomm.location.vzw_library.xml:system/etc/permissions/com.qualcomm.location.vzw_library.xml \
     vendor/motorola/otus/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/fixed_imes.xml:system/etc/permissions/fixed_imes.xml \
     vendor/motorola/otus/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
     vendor/motorola/otus/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/motorola/otus/proprietary/etc/quipc.conf:system/etc/quipc.conf \
