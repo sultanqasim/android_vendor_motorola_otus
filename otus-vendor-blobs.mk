@@ -95,10 +95,12 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
     vendor/motorola/otus/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
     vendor/motorola/otus/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
+    vendor/motorola/otus/proprietary/etc/permissions/ims.xml:system/etc/permissions/ims.xml \
     vendor/motorola/otus/proprietary/etc/quipc.conf:system/etc/quipc.conf \
     vendor/motorola/otus/proprietary/etc/sap.conf:system/etc/sap.conf \
     vendor/motorola/otus/proprietary/etc/xtra_root_cert.pem:system/etc/xtra_root_cert.pem \
     vendor/motorola/otus/proprietary/etc/xtwifi.conf:system/etc/xtwifi.conf \
+    vendor/motorola/otus/proprietary/framework/imslibrary.jar:system/framework/imslibrary.jar \
     vendor/motorola/otus/proprietary/lib/hw/audio.a2dp.default.so:system/lib/hw/audio.a2dp.default.so \
     vendor/motorola/otus/proprietary/lib/hw/audio_policy.default.so:system/lib/hw/audio_policy.default.so \
     vendor/motorola/otus/proprietary/lib/hw/audio.primary.default.so:system/lib/hw/audio.primary.default.so \
@@ -192,9 +194,12 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
     vendor/motorola/otus/proprietary/vendor/lib/libbt-vendor.so:system/vendor/lib/libbt-vendor.so \
     vendor/motorola/otus/proprietary/vendor/lib/libC2D2.so:system/vendor/lib/libC2D2.so \
+    vendor/motorola/otus/proprietary/vendor/lib/libc2d2_z180.so:system/vendor/lib/libc2d2_z180.so \
+    vendor/motorola/otus/proprietary/vendor/lib/libc2d30.so:system/vendor/lib/libc2d30.so \
     vendor/motorola/otus/proprietary/vendor/lib/libc2d30-a3xx.so:system/vendor/lib/libc2d30-a3xx.so \
     vendor/motorola/otus/proprietary/vendor/lib/libc2d30-a4xx.so:system/vendor/lib/libc2d30-a4xx.so \
     vendor/motorola/otus/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
+    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_ar0261_preview.so:system/vendor/lib/libchromatix_ar0261_preview.so \
     vendor/motorola/otus/proprietary/vendor/lib/libchromatix_ar0261_common.so:system/vendor/lib/libchromatix_ar0261_common.so \
     vendor/motorola/otus/proprietary/vendor/lib/libchromatix_ar0261_default_video.so:system/vendor/lib/libchromatix_ar0261_default_video.so \
     vendor/motorola/otus/proprietary/vendor/lib/libchromatix_ar0261_snapshot.so:system/vendor/lib/libchromatix_ar0261_snapshot.so \
@@ -206,6 +211,9 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/vendor/lib/libchromatix_imx135_default_video.so:system/vendor/lib/libchromatix_imx135_default_video.so \
     vendor/motorola/otus/proprietary/vendor/lib/libchromatix_imx135_hfr_60.so:system/vendor/lib/libchromatix_imx135_hfr_60.so \
     vendor/motorola/otus/proprietary/vendor/lib/libchromatix_imx135_snapshot.so:system/vendor/lib/libchromatix_imx135_snapshot.so \
+    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_imx135_video_hd.so:system/vendor/lib/libchromatix_imx135_video_hd.so \
+    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_imx179_hfr_120.so:system/vendor/lib/libchromatix_imx179_hfr_120.so \
+    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_imx179_hfr_90.so:system/vendor/lib/libchromatix_imx179_hfr_90.so \
     vendor/motorola/otus/proprietary/vendor/lib/libchromatix_imx179_common.so:system/vendor/lib/libchromatix_imx179_common.so \
     vendor/motorola/otus/proprietary/vendor/lib/libchromatix_imx179_default_video.so:system/vendor/lib/libchromatix_imx179_default_video.so \
     vendor/motorola/otus/proprietary/vendor/lib/libchromatix_imx179_hfr_60.so:system/vendor/lib/libchromatix_imx179_hfr_60.so \
@@ -305,6 +313,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/vendor/lib/libOmxQcelp13Dec.so:system/vendor/lib/libOmxQcelp13Dec.so \
     vendor/motorola/otus/proprietary/vendor/lib/libOmxWmaDec.so:system/vendor/lib/libOmxWmaDec.so \
     vendor/motorola/otus/proprietary/vendor/lib/libOpenCL.so:system/vendor/lib/libOpenCL.so \
+    vendor/motorola/otus/proprietary/vendor/lib/libOpenVG.so:system/vendor/lib/libOpenVG.so \
     vendor/motorola/otus/proprietary/vendor/lib/libprdrmdecrypt.so:system/vendor/lib/libprdrmdecrypt.so \
     vendor/motorola/otus/proprietary/vendor/lib/libqcci_legacy.so:system/vendor/lib/libqcci_legacy.so \
     vendor/motorola/otus/proprietary/vendor/lib/libqc-opt.so:system/vendor/lib/libqc-opt.so \
