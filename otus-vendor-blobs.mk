@@ -18,13 +18,9 @@
 PRODUCT_COPY_FILES :=     vendor/motorola/otus/proprietary/vendor/lib/libtime_genoff.so:obj/lib/libtime_genoff.so
 
 PRODUCT_COPY_FILES += \
-    vendor/motorola/otus/proprietary/app/com.motorola.android.nativedropboxagent/com.motorola.android.nativedropboxagent.apk:system/app/com.motorola.android.nativedropboxagent/com.motorola.android.nativedropboxagent.apk \
-    vendor/motorola/otus/proprietary/app/com.motorola.android.settings.diag_mdlog/com.motorola.android.settings.diag_mdlog.apk:system/app/com.motorola.android.settings.diag_mdlog/com.motorola.android.settings.diag_mdlog.apk \
     vendor/motorola/otus/proprietary/app/com.qualcomm.location/com.qualcomm.location.apk:system/app/com.qualcomm.location/com.qualcomm.location.apk \
     vendor/motorola/otus/proprietary/app/com.qualcomm.services.location/com.qualcomm.services.location.apk:system/app/com.qualcomm.services.location/com.qualcomm.services.location.apk \
     vendor/motorola/otus/proprietary/app/MotGeoFenceSvc/MotGeoFenceSvc.apk:system/app/MotGeoFenceSvc/MotGeoFenceSvc.apk \
-    vendor/motorola/otus/proprietary/app/MotoDisplay_FWProxy/MotoDisplay_FWProxy.apk:system/app/MotoDisplay_FWProxy/MotoDisplay_FWProxy.apk \
-    vendor/motorola/otus/proprietary/app/MotoSignatureApp/MotoSignatureApp.apk:system/app/MotoSignatureApp/MotoSignatureApp.apk \
     vendor/motorola/otus/proprietary/app/qcrilmsgtunnel/qcrilmsgtunnel.apk:system/app/qcrilmsgtunnel/qcrilmsgtunnel.apk \
     vendor/motorola/otus/proprietary/app/TimeService/TimeService.apk:system/app/TimeService/TimeService.apk \
     vendor/motorola/otus/proprietary/bin/adsprpcd:system/bin/adsprpcd \
