@@ -18,11 +18,6 @@
 PRODUCT_COPY_FILES :=     vendor/motorola/otus/proprietary/vendor/lib/libtime_genoff.so:obj/lib/libtime_genoff.so
 
 PRODUCT_COPY_FILES += \
-    vendor/motorola/otus/proprietary/app/com.qualcomm.location/com.qualcomm.location.apk:system/app/com.qualcomm.location/com.qualcomm.location.apk \
-    vendor/motorola/otus/proprietary/app/com.qualcomm.services.location/com.qualcomm.services.location.apk:system/app/com.qualcomm.services.location/com.qualcomm.services.location.apk \
-    vendor/motorola/otus/proprietary/app/MotGeoFenceSvc/MotGeoFenceSvc.apk:system/app/MotGeoFenceSvc/MotGeoFenceSvc.apk \
-    vendor/motorola/otus/proprietary/app/qcrilmsgtunnel/qcrilmsgtunnel.apk:system/app/qcrilmsgtunnel/qcrilmsgtunnel.apk \
-    vendor/motorola/otus/proprietary/app/TimeService/TimeService.apk:system/app/TimeService/TimeService.apk \
     vendor/motorola/otus/proprietary/bin/adsprpcd:system/bin/adsprpcd \
     vendor/motorola/otus/proprietary/bin/ap_gain.bin:system/bin/ap_gain.bin \
     vendor/motorola/otus/proprietary/bin/ap_gain_mmul.bin:system/bin/ap_gain_mmul.bin \
