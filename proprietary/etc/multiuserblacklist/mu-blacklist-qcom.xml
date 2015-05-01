@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<packages>
+        <!-- Qcom related packags -->
+        <item>com.qualcomm.atfwd</item>
+        <item>com.qualcomm.location</item>
+        <item>com.qualcomm.qcrilmsgtunnel</item>
+        <item>com.qualcomm.services.location</item>
+        <item>com.qualcomm.timeservice</item>
+</packages>

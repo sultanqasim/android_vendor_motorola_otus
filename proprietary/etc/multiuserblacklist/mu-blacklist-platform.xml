@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<packages>
+        <!-- Motorola related packags -->
+        <item>com.lmi.motorola.rescuesecurity</item>
+        <item>com.motorola.actions</item>
+        <item>com.motorola.android.dm.service</item>
+        <item>com.motorola.android.nativedropboxagent</item>
+        <item>com.motorola.android.providers.chromehomepage</item>
+        <item>com.motorola.android.provisioning</item>
+        <item>com.motorola.audioeffects</item>
+        <item>com.motorola.audiomonitor</item>
+        <item>com.motorola.audiomonitor.helper</item>
+        <item>com.motorola.avatar</item>
+        <item>com.motorola.avatarpermissions.app</item>
+        <item>com.motorola.bach.modemstats</item>
+        <item>com.motorola.bodyguard</item>
+        <item>com.motorola.ccc.cce</item>
+        <item>com.motorola.ccc.checkin</item>
+        <item>com.motorola.ccc.devicemanagement</item>
+        <item>com.motorola.ccc.mainplm</item>
+        <item>com.motorola.ccc.notification</item>
+        <item>com.motorola.ccc.ota</item>
+        <item>com.motorola.cogradio</item>
+        <item>com.motorola.demomode</item>
+        <item>com.motorola.digitalpersonalization</item>
+        <item>com.motorola.efem</item>
+        <item>com.motorola.genie</item>
+        <item>com.motorola.incrementalupdates</item>
+        <item>com.motorola.migrate</item>
+        <item>com.motorola.moodles</item>
+        <item>com.motorola.motgeofencesvc</item>
+        <item>com.motorola.moto</item>
+        <item>com.motorola.motocare</item>
+        <item>com.motorola.motocare.internal</item>
+        <item>com.motorola.motocit</item>
+        <item>com.motorola.motodisplay</item>
+        <item>com.motorola.motodisplay.env</item>
+        <item>com.motorola.pgmsystem2</item>
+        <item>com.motorola.preloadcontacts</item>
+        <item>com.motorola.programmenu</item>
+        <item>com.motorola.sensorhub.stm401.updater</item>
+        <item>com.motorola.sensorhub.msp430.updater</item>
+        <item>com.motorola.setup</item>
+        <item>com.motorola.slpc</item>
+        <item>com.motorola.slpc_sys</item>
+        <item>com.motorola.targetnotif</item>
+        <item>com.motorola.tj.alt.altautocycle</item>
+        <item>org.simalliance.openmobileapi.service</item>
+</packages>
