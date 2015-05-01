@@ -22,13 +22,9 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/bin/PktRspTest:system/bin/PktRspTest \
     vendor/motorola/otus/proprietary/bin/ap_gain.bin:system/bin/ap_gain.bin \
     vendor/motorola/otus/proprietary/bin/ap_gain_mmul.bin:system/bin/ap_gain_mmul.bin \
-    vendor/motorola/otus/proprietary/bin/apanic_annotate.sh:system/bin/apanic_annotate.sh \
     vendor/motorola/otus/proprietary/bin/aplogcat:system/bin/aplogcat \
     vendor/motorola/otus/proprietary/bin/aplogd:system/bin/aplogd \
-    vendor/motorola/otus/proprietary/bin/app_process:system/bin/app_process \
-    vendor/motorola/otus/proprietary/bin/batch:system/bin/batch \
     vendor/motorola/otus/proprietary/bin/batt_health:system/bin/batt_health \
-    vendor/motorola/otus/proprietary/bin/brctl:system/bin/brctl \
     vendor/motorola/otus/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/motorola/otus/proprietary/bin/charger_monitor:system/bin/charger_monitor \
     vendor/motorola/otus/proprietary/bin/cplay:system/bin/cplay \
@@ -72,7 +68,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/bin/nandread:system/bin/nandread \
     vendor/motorola/otus/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/motorola/otus/proprietary/bin/newfs_msdos:system/bin/newfs_msdos \
-    vendor/motorola/otus/proprietary/bin/printenv:system/bin/printenv \
     vendor/motorola/otus/proprietary/bin/ptf:system/bin/ptf \
     vendor/motorola/otus/proprietary/bin/ptt_socket_app:system/bin/ptt_socket_app \
     vendor/motorola/otus/proprietary/bin/qmi_motext_hook:system/bin/qmi_motext_hook \
@@ -98,7 +93,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/bin/subsystem_ramdump:system/bin/subsystem_ramdump \
     vendor/motorola/otus/proprietary/bin/tcmd:system/bin/tcmd \
     vendor/motorola/otus/proprietary/bin/tcmdhelp:system/bin/tcmdhelp \
-    vendor/motorola/otus/proprietary/bin/test:system/bin/test \
     vendor/motorola/otus/proprietary/bin/test_diag:system/bin/test_diag \
     vendor/motorola/otus/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/motorola/otus/proprietary/bin/time_daemon:system/bin/time_daemon \
