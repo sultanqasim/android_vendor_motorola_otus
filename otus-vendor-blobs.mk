@@ -155,12 +155,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/etc/ftm_test_config:system/etc/ftm_test_config \
     vendor/motorola/otus/proprietary/etc/gps.conf:system/etc/gps.conf \
     vendor/motorola/otus/proprietary/etc/hcidump.sh:system/etc/hcidump.sh \
-    vendor/motorola/otus/proprietary/etc/init.qcom.coex.sh:system/etc/init.qcom.coex.sh \
-    vendor/motorola/otus/proprietary/etc/init.qcom.efs.sync.sh:system/etc/init.qcom.efs.sync.sh \
-    vendor/motorola/otus/proprietary/etc/init.qcom.modem_links.sh:system/etc/init.qcom.modem_links.sh \
-    vendor/motorola/otus/proprietary/etc/init.qcom.post_boot.sh:system/etc/init.qcom.post_boot.sh \
-    vendor/motorola/otus/proprietary/etc/init.qcom.sdio.sh:system/etc/init.qcom.sdio.sh \
-    vendor/motorola/otus/proprietary/etc/init.qcom.wifi.sh:system/etc/init.qcom.wifi.sh \
     vendor/motorola/otus/proprietary/etc/install-recovery.cfg:system/etc/install-recovery.cfg \
     vendor/motorola/otus/proprietary/etc/izat.conf:system/etc/izat.conf \
     vendor/motorola/otus/proprietary/etc/lowi.conf:system/etc/lowi.conf \
@@ -226,7 +220,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/etc/thermal-engine-otus.conf:system/etc/thermal-engine-otus.conf \
     vendor/motorola/otus/proprietary/etc/voicemail-conf.xml:system/etc/voicemail-conf.xml \
     vendor/motorola/otus/proprietary/etc/whitelist_appops.xml:system/etc/whitelist_appops.xml \
-    vendor/motorola/otus/proprietary/etc/wifi/p2p_supplicant.conf:system/etc/wifi/p2p_supplicant.conf \
     vendor/motorola/otus/proprietary/etc/xtra_root_cert.pem:system/etc/xtra_root_cert.pem \
     vendor/motorola/otus/proprietary/etc/xtwifi.conf:system/etc/xtwifi.conf \
     vendor/motorola/otus/proprietary/lib/hw/camera.msm8610.so:system/lib/hw/camera.msm8610.so \
