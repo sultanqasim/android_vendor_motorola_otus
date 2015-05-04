@@ -229,10 +229,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/lib/hw/sensorhub.msm8610.so:system/lib/hw/sensorhub.msm8610.so \
     vendor/motorola/otus/proprietary/lib/hw/sensors.msm8610.so:system/lib/hw/sensors.msm8610.so \
     vendor/motorola/otus/proprietary/lib/libGLESv3.so:system/lib/libGLESv3.so \
-    vendor/motorola/otus/proprietary/lib/libOmxAacEnc.so:system/lib/libOmxAacEnc.so \
-    vendor/motorola/otus/proprietary/lib/libOmxAmrEnc.so:system/lib/libOmxAmrEnc.so \
-    vendor/motorola/otus/proprietary/lib/libOmxEvrcEnc.so:system/lib/libOmxEvrcEnc.so \
-    vendor/motorola/otus/proprietary/lib/libOmxQcelp13Enc.so:system/lib/libOmxQcelp13Enc.so \
     vendor/motorola/otus/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
     vendor/motorola/otus/proprietary/lib/libSTML0Updater.so:system/lib/libSTML0Updater.so \
     vendor/motorola/otus/proprietary/lib/libactions_irservice_stm.so:system/lib/libactions_irservice_stm.so \
