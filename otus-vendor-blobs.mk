@@ -18,6 +18,7 @@
 PRODUCT_COPY_FILES :=     vendor/motorola/otus/proprietary/vendor/lib/libtime_genoff.so:obj/lib/libtime_genoff.so
 
 PRODUCT_COPY_FILES += \
+    vendor/motorola/otus/proprietary/bin/adsprpcd:system/bin/adsprpcd \
     vendor/motorola/otus/proprietary/bin/ATFWD-daemon:system/bin/ATFWD-daemon \
     vendor/motorola/otus/proprietary/bin/PktRspTest:system/bin/PktRspTest \
     vendor/motorola/otus/proprietary/bin/ap_gain.bin:system/bin/ap_gain.bin \
