@@ -109,8 +109,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/lib/hw/sensors.msm8610.so:system/lib/hw/sensors.msm8610.so \
     vendor/motorola/otus/proprietary/lib/libactions_irservice_stm.so:system/lib/libactions_irservice_stm.so \
     vendor/motorola/otus/proprietary/lib/libadropbox.so:system/lib/libadropbox.so \
-    vendor/motorola/otus/proprietary/lib/liballjoyn.so:system/lib/liballjoyn.so \
-    vendor/motorola/otus/proprietary/lib/libbabysit.so:system/lib/libbabysit.so \
     vendor/motorola/otus/proprietary/lib/libbluedroid.so:system/lib/libbluedroid.so \
     vendor/motorola/otus/proprietary/lib/libbt-aptX-ARM-4.2.2.so:system/lib/libbt-aptX-ARM-4.2.2.so \
     vendor/motorola/otus/proprietary/lib/libcamlistener_jni.so:system/lib/libcamlistener_jni.so \
@@ -143,10 +141,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/lib/libmm-omxcore.so:system/lib/libmm-omxcore.so \
     vendor/motorola/otus/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
     vendor/motorola/otus/proprietary/lib/libmodalityservice_jni.so:system/lib/libmodalityservice_jni.so \
-    vendor/motorola/otus/proprietary/lib/libmotaudioutils.so:system/lib/libmotaudioutils.so \
     vendor/motorola/otus/proprietary/lib/libmotext_inf.so:system/lib/libmotext_inf.so \
     vendor/motorola/otus/proprietary/lib/libmotocalibration.so:system/lib/libmotocalibration.so \
-    vendor/motorola/otus/proprietary/lib/libmotocare.so:system/lib/libmotocare.so \
     vendor/motorola/otus/proprietary/lib/libmotodisplayqd.so:system/lib/libmotodisplayqd.so \
     vendor/motorola/otus/proprietary/lib/libmoto_netutil.so:system/lib/libmoto_netutil.so \
     vendor/motorola/otus/proprietary/lib/libmot_sensorlistener.so:system/lib/libmot_sensorlistener.so \
@@ -162,7 +158,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/lib/libspeakerbundle.so:system/lib/libspeakerbundle.so \
     vendor/motorola/otus/proprietary/lib/libSTML0Updater.so:system/lib/libSTML0Updater.so \
     vendor/motorola/otus/proprietary/lib/libstm-log.so:system/lib/libstm-log.so \
-    vendor/motorola/otus/proprietary/lib/libtinyxml.so:system/lib/libtinyxml.so \
     vendor/motorola/otus/proprietary/lib/libtpa_core.so:system/lib/libtpa_core.so \
     vendor/motorola/otus/proprietary/lib/libtpa.so:system/lib/libtpa.so \
     vendor/motorola/otus/proprietary/lib/libwbxmlparser.so:system/lib/libwbxmlparser.so \
