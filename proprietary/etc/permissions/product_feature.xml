@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<permissions>
-    <feature name="com.motorola.software.device.otus" />
-    <feature name="com.motorola.software.product.otus_retuglb" />
-    <feature name="com.motorola.software.fingerprint.motorola/otus_retuglb/otus:5.0.2/LXC22.99-12/11:user/test-keys" />
-</permissions>

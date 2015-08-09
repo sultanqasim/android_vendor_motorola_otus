@@ -71,29 +71,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/etc/acdbdata/Hdmi_cal.acdb:system/etc/acdbdata/Hdmi_cal.acdb \
     vendor/motorola/otus/proprietary/etc/acdbdata/Headset_cal.acdb:system/etc/acdbdata/Headset_cal.acdb \
     vendor/motorola/otus/proprietary/etc/acdbdata/Speaker_cal.acdb:system/etc/acdbdata/Speaker_cal.acdb \
-    vendor/motorola/otus/proprietary/etc/bluetooth/audio.conf:system/etc/bluetooth/audio.conf \
-    vendor/motorola/otus/proprietary/etc/bluetooth/auto_pairing.conf:system/etc/bluetooth/auto_pairing.conf \
-    vendor/motorola/otus/proprietary/etc/bluetooth/blacklist.conf:system/etc/bluetooth/blacklist.conf \
-    vendor/motorola/otus/proprietary/etc/bluetooth/input.conf:system/etc/bluetooth/input.conf \
-    vendor/motorola/otus/proprietary/etc/bluetooth/main.conf:system/etc/bluetooth/main.conf \
-    vendor/motorola/otus/proprietary/etc/bluetooth/network.conf:system/etc/bluetooth/network.conf \
-    vendor/motorola/otus/proprietary/etc/buffers-conf.xml:system/etc/buffers-conf.xml \
     vendor/motorola/otus/proprietary/etc/cacert_location.pem:system/etc/cacert_location.pem \
-    vendor/motorola/otus/proprietary/etc/cne/andsfCne.xml:system/etc/cne/andsfCne.xml \
-    vendor/motorola/otus/proprietary/etc/cne/NsrmConfiguration.xml:system/etc/cne/NsrmConfiguration.xml \
-    vendor/motorola/otus/proprietary/etc/cne/SwimConfig.xml:system/etc/cne/SwimConfig.xml \
-    vendor/motorola/otus/proprietary/etc/data/qmi_config.xml:system/etc/data/qmi_config.xml \
-    vendor/motorola/otus/proprietary/etc/dhcpcd/dhcpcd-hooks/21-wins.conf:system/etc/dhcpcd/dhcpcd-hooks/21-wins.conf \
-    vendor/motorola/otus/proprietary/etc/dhcpcd/dhcpcd-hooks/22-domain-suffix.conf:system/etc/dhcpcd/dhcpcd-hooks/22-domain-suffix.conf \
-    vendor/motorola/otus/proprietary/etc/dhcpcd/dhcpcd-hooks/23-domain-name.conf:system/etc/dhcpcd/dhcpcd-hooks/23-domain-name.conf \
-    vendor/motorola/otus/proprietary/etc/diag_mdlog/Connection_Issues_V6.cfg:system/etc/diag_mdlog/Connection_Issues_V6.cfg \
-    vendor/motorola/otus/proprietary/etc/diag_mdlog/default.cfg:system/etc/diag_mdlog/default.cfg \
-    vendor/motorola/otus/proprietary/etc/diag_mdlog/default.opts:system/etc/diag_mdlog/default.opts \
-    vendor/motorola/otus/proprietary/etc/diag_mdlog/FIT_V15_audio.cfg:system/etc/diag_mdlog/FIT_V15_audio.cfg \
-    vendor/motorola/otus/proprietary/etc/diag_mdlog/FIT_V15.cfg:system/etc/diag_mdlog/FIT_V15.cfg \
-    vendor/motorola/otus/proprietary/etc/diag_mdlog/GPS_V1.cfg:system/etc/diag_mdlog/GPS_V1.cfg \
-    vendor/motorola/otus/proprietary/etc/diag_mdlog/Vzw_Connection_Issues_V1.cfg:system/etc/diag_mdlog/Vzw_Connection_Issues_V1.cfg \
-    vendor/motorola/otus/proprietary/etc/diag_mdlog/WLAN_V1.cfg:system/etc/diag_mdlog/WLAN_V1.cfg \
     vendor/motorola/otus/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
     vendor/motorola/otus/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
     vendor/motorola/otus/proprietary/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
@@ -111,74 +89,16 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/etc/firmware/synaptics-boe-s2316-15020301-175833-otus.tdat:system/etc/firmware/synaptics-boe-s2316-15020301-175833-otus.tdat \
     vendor/motorola/otus/proprietary/etc/firmware/synaptics-inx-s2316-15020302-175833-otus.tdat:system/etc/firmware/synaptics-inx-s2316-15020302-175833-otus.tdat \
     vendor/motorola/otus/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin:system/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin \
-    vendor/motorola/otus/proprietary/etc/ftm_test_config:system/etc/ftm_test_config \
     vendor/motorola/otus/proprietary/etc/gps.conf:system/etc/gps.conf \
-    vendor/motorola/otus/proprietary/etc/hcidump.sh:system/etc/hcidump.sh \
-    vendor/motorola/otus/proprietary/etc/install-recovery.cfg:system/etc/install-recovery.cfg \
     vendor/motorola/otus/proprietary/etc/izat.conf:system/etc/izat.conf \
     vendor/motorola/otus/proprietary/etc/lowi.conf:system/etc/lowi.conf \
-    vendor/motorola/otus/proprietary/etc/motorola/12m/btconfig:system/etc/motorola/12m/btconfig \
-    vendor/motorola/otus/proprietary/etc/motorola/12m/cqatest_cfg:system/etc/motorola/12m/cqatest_cfg \
-    vendor/motorola/otus/proprietary/etc/motorola/12m/cqatest_cfg_model_assembly:system/etc/motorola/12m/cqatest_cfg_model_assembly \
-    vendor/motorola/otus/proprietary/etc/motorola/12m/key_code_map.txt:system/etc/motorola/12m/key_code_map.txt \
-    vendor/motorola/otus/proprietary/etc/motorola/12m/tcmd_leds.cfg:system/etc/motorola/12m/tcmd_leds.cfg \
-    vendor/motorola/otus/proprietary/etc/motorola/tcmd/cid_template.dat:system/etc/motorola/tcmd/cid_template.dat \
     vendor/motorola/otus/proprietary/etc/msap.conf:system/etc/msap.conf \
-    vendor/motorola/otus/proprietary/etc/multiuserblacklist/mu-blacklist-apps.xml:system/etc/multiuserblacklist/mu-blacklist-apps.xml \
-    vendor/motorola/otus/proprietary/etc/multiuserblacklist/mu-blacklist-mot8610.xml:system/etc/multiuserblacklist/mu-blacklist-mot8610.xml \
-    vendor/motorola/otus/proprietary/etc/multiuserblacklist/mu-blacklist-platform.xml:system/etc/multiuserblacklist/mu-blacklist-platform.xml \
-    vendor/motorola/otus/proprietary/etc/multiuserblacklist/mu-blacklist-qcom.xml:system/etc/multiuserblacklist/mu-blacklist-qcom.xml \
-    vendor/motorola/otus/proprietary/etc/multiuserblacklist/mu-blacklist-secondary.xml:system/etc/multiuserblacklist/mu-blacklist-secondary.xml \
-    vendor/motorola/otus/proprietary/etc/nfcee_access.xml:system/etc/nfcee_access.xml \
-    vendor/motorola/otus/proprietary/etc/nfc-nci.conf:system/etc/nfc-nci.conf \
-    vendor/motorola/otus/proprietary/etc/nondisable/com.android.mms.xml:system/etc/nondisable/com.android.mms.xml \
-    vendor/motorola/otus/proprietary/etc/nondisable/com.motorola.ccc.ota.xml:system/etc/nondisable/com.motorola.ccc.ota.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/android.hardware.camera.autofocus.xml:system/etc/permissions/android.hardware.camera.autofocus.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/android.hardware.camera.front.xml:system/etc/permissions/android.hardware.camera.front.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/android.hardware.camera.xml:system/etc/permissions/android.hardware.camera.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/android.software.sip.xml:system/etc/permissions/android.software.sip.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/cneapiclient.xml:system/etc/permissions/cneapiclient.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/com.google.android.maps.xml:system/etc/permissions/com.google.android.maps.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/com.google.android.media.effects.xml:system/etc/permissions/com.google.android.media.effects.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/com.google.widevine.software.drm.xml:system/etc/permissions/com.google.widevine.software.drm.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/com.motorola.actions.xml:system/etc/permissions/com.motorola.actions.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/com.motorola.android.dm.service.xml:system/etc/permissions/com.motorola.android.dm.service.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/com.motorola.android.settings.shared.xml:system/etc/permissions/com.motorola.android.settings.shared.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/com.motorola.android.tcmd.xml:system/etc/permissions/com.motorola.android.tcmd.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/com.motorola.camera.xml:system/etc/permissions/com.motorola.camera.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/com.motorola.fpsmotosignature.xml:system/etc/permissions/com.motorola.fpsmotosignature.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/com.motorola.frameworks.core.addon.xml:system/etc/permissions/com.motorola.frameworks.core.addon.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/com.motorola.gallery.xml:system/etc/permissions/com.motorola.gallery.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/com.motorola.moodle.library.xml:system/etc/permissions/com.motorola.moodle.library.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/com.motorola.motodisplay.fd.screenoff.xml:system/etc/permissions/com.motorola.motodisplay.fd.screenoff.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/com.motorola.motosignature.xml:system/etc/permissions/com.motorola.motosignature.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/com.motorola.moto.xml:system/etc/permissions/com.motorola.moto.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/com.motorola.sensorhub.stml0.xml:system/etc/permissions/com.motorola.sensorhub.stml0.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/com.motorola.slpc.xml:system/etc/permissions/com.motorola.slpc.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/com.motorola.software.bodyguard.xml:system/etc/permissions/com.motorola.software.bodyguard.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/com.motorola.software.fmradioservice.xml:system/etc/permissions/com.motorola.software.fmradioservice.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/com.motorola.software.fmrecording.xml:system/etc/permissions/com.motorola.software.fmrecording.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/com.motorola.software.guideme.xml:system/etc/permissions/com.motorola.software.guideme.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/com.motorola.software.smartnotifications.xml:system/etc/permissions/com.motorola.software.smartnotifications.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/com.motorola.software.storageoptimizer.xml:system/etc/permissions/com.motorola.software.storageoptimizer.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/com.motorola.software.x_line.xml:system/etc/permissions/com.motorola.software.x_line.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/com.qcom.fmradio.xml:system/etc/permissions/com.qcom.fmradio.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/com.qualcomm.location.vzw_library.xml:system/etc/permissions/com.qualcomm.location.vzw_library.xml \
     vendor/motorola/otus/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/fixed_imes.xml:system/etc/permissions/fixed_imes.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/product_feature.xml:system/etc/permissions/product_feature.xml \
-    vendor/motorola/otus/proprietary/etc/permissions/protobufs-2.3.0.xml:system/etc/permissions/protobufs-2.3.0.xml \
     vendor/motorola/otus/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
     vendor/motorola/otus/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
-    vendor/motorola/otus/proprietary/etc/qca6234-service.sh:system/etc/qca6234-service.sh \
-    vendor/motorola/otus/proprietary/etc/qewl.jar:system/etc/qewl.jar \
     vendor/motorola/otus/proprietary/etc/quipc.conf:system/etc/quipc.conf \
-    vendor/motorola/otus/proprietary/etc/rtt-conf.xml:system/etc/rtt-conf.xml \
     vendor/motorola/otus/proprietary/etc/sap.conf:system/etc/sap.conf \
-    vendor/motorola/otus/proprietary/etc/security/suplcerts.bks:system/etc/security/suplcerts.bks \
     vendor/motorola/otus/proprietary/etc/thermal-engine-otus.conf:system/etc/thermal-engine-otus.conf \
-    vendor/motorola/otus/proprietary/etc/voicemail-conf.xml:system/etc/voicemail-conf.xml \
-    vendor/motorola/otus/proprietary/etc/whitelist_appops.xml:system/etc/whitelist_appops.xml \
     vendor/motorola/otus/proprietary/etc/xtra_root_cert.pem:system/etc/xtra_root_cert.pem \
     vendor/motorola/otus/proprietary/etc/xtwifi.conf:system/etc/xtwifi.conf \
     vendor/motorola/otus/proprietary/lib/hw/camera.msm8610.so:system/lib/hw/camera.msm8610.so \
