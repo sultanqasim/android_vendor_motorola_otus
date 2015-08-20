@@ -113,12 +113,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/lib/libbt-aptX-ARM-4.2.2.so:system/lib/libbt-aptX-ARM-4.2.2.so \
     vendor/motorola/otus/proprietary/lib/libcamlistener_jni.so:system/lib/libcamlistener_jni.so \
     vendor/motorola/otus/proprietary/lib/libcce-socketjni.so:system/lib/libcce-socketjni.so \
-    vendor/motorola/otus/proprietary/lib/libchromatix_ar0543_common.so:system/lib/libchromatix_ar0543_common.so \
-    vendor/motorola/otus/proprietary/lib/libchromatix_ar0543_default_video.so:system/lib/libchromatix_ar0543_default_video.so \
-    vendor/motorola/otus/proprietary/lib/libchromatix_ar0543_hfr_60.so:system/lib/libchromatix_ar0543_hfr_60.so \
-    vendor/motorola/otus/proprietary/lib/libchromatix_ar0543_preview.so:system/lib/libchromatix_ar0543_preview.so \
-    vendor/motorola/otus/proprietary/lib/libchromatix_ar0543_snapshot.so:system/lib/libchromatix_ar0543_snapshot.so \
-    vendor/motorola/otus/proprietary/lib/libchromatix_imx135_liveshot.so:system/lib/libchromatix_imx135_liveshot.so \
     vendor/motorola/otus/proprietary/lib/libcnefeatureconfig.so:system/lib/libcnefeatureconfig.so \
     vendor/motorola/otus/proprietary/lib/libdmengine.so:system/lib/libdmengine.so \
     vendor/motorola/otus/proprietary/lib/libdmjavaplugin.so:system/lib/libdmjavaplugin.so \
@@ -135,7 +129,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
     vendor/motorola/otus/proprietary/lib/libmdmcutback.so:system/lib/libmdmcutback.so \
     vendor/motorola/otus/proprietary/lib/libmdmdetect.so:system/lib/libmdmdetect.so \
-    vendor/motorola/otus/proprietary/lib/libmmcamera_ar0543.so:system/lib/libmmcamera_ar0543.so \
     vendor/motorola/otus/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/motorola/otus/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     vendor/motorola/otus/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
