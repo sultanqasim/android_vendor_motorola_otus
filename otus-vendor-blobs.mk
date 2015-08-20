@@ -185,48 +185,12 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/vendor/lib/libc2d30-a3xx.so:system/vendor/lib/libc2d30-a3xx.so \
     vendor/motorola/otus/proprietary/vendor/lib/libc2d30-a4xx.so:system/vendor/lib/libc2d30-a4xx.so \
     vendor/motorola/otus/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_ar0261_common.so:system/vendor/lib/libchromatix_ar0261_common.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_ar0261_default_video.so:system/vendor/lib/libchromatix_ar0261_default_video.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_ar0261_snapshot.so:system/vendor/lib/libchromatix_ar0261_snapshot.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_imx132_common.so:system/vendor/lib/libchromatix_imx132_common.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_imx132_preview.so:system/vendor/lib/libchromatix_imx132_preview.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_imx132_snapshot.so:system/vendor/lib/libchromatix_imx132_snapshot.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_imx132_video.so:system/vendor/lib/libchromatix_imx132_video.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_imx135_common.so:system/vendor/lib/libchromatix_imx135_common.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_imx135_default_video.so:system/vendor/lib/libchromatix_imx135_default_video.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_imx135_hfr_60.so:system/vendor/lib/libchromatix_imx135_hfr_60.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_imx135_snapshot.so:system/vendor/lib/libchromatix_imx135_snapshot.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_imx179_common.so:system/vendor/lib/libchromatix_imx179_common.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_imx179_default_video.so:system/vendor/lib/libchromatix_imx179_default_video.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_imx179_hfr_60.so:system/vendor/lib/libchromatix_imx179_hfr_60.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_imx179_preview.so:system/vendor/lib/libchromatix_imx179_preview.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_imx179_snapshot.so:system/vendor/lib/libchromatix_imx179_snapshot.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_ov10820_common.so:system/vendor/lib/libchromatix_ov10820_common.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_ov10820_preview.so:system/vendor/lib/libchromatix_ov10820_preview.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_ov10820_snapshot.so:system/vendor/lib/libchromatix_ov10820_snapshot.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_ov10820_zsl.so:system/vendor/lib/libchromatix_ov10820_zsl.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_ov8865_common.so:system/vendor/lib/libchromatix_ov8865_common.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_ov8865_default_video.so:system/vendor/lib/libchromatix_ov8865_default_video.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_ov8865_hfr_120fps.so:system/vendor/lib/libchromatix_ov8865_hfr_120fps.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_ov8865_hfr_60fps.so:system/vendor/lib/libchromatix_ov8865_hfr_60fps.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_ov8865_hfr_90fps.so:system/vendor/lib/libchromatix_ov8865_hfr_90fps.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_ov8865_liveshot.so:system/vendor/lib/libchromatix_ov8865_liveshot.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_ov8865_preview.so:system/vendor/lib/libchromatix_ov8865_preview.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_ov8865_snapshot.so:system/vendor/lib/libchromatix_ov8865_snapshot.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_ov8865_video_hd.so:system/vendor/lib/libchromatix_ov8865_video_hd.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_ov8865_zsl.so:system/vendor/lib/libchromatix_ov8865_zsl.so \
     vendor/motorola/otus/proprietary/vendor/lib/libchromatix_s5k5e2_common.so:system/vendor/lib/libchromatix_s5k5e2_common.so \
     vendor/motorola/otus/proprietary/vendor/lib/libchromatix_s5k5e2_default_video.so:system/vendor/lib/libchromatix_s5k5e2_default_video.so \
     vendor/motorola/otus/proprietary/vendor/lib/libchromatix_s5k5e2_hfr_60fps.so:system/vendor/lib/libchromatix_s5k5e2_hfr_60fps.so \
     vendor/motorola/otus/proprietary/vendor/lib/libchromatix_s5k5e2_liveshot.so:system/vendor/lib/libchromatix_s5k5e2_liveshot.so \
     vendor/motorola/otus/proprietary/vendor/lib/libchromatix_s5k5e2_preview.so:system/vendor/lib/libchromatix_s5k5e2_preview.so \
     vendor/motorola/otus/proprietary/vendor/lib/libchromatix_s5k5e2_snapshot.so:system/vendor/lib/libchromatix_s5k5e2_snapshot.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_t4k71_common.so:system/vendor/lib/libchromatix_t4k71_common.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_t4k71_fhd_30fps.so:system/vendor/lib/libchromatix_t4k71_fhd_30fps.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_t4k71_fhd_30fps_video.so:system/vendor/lib/libchromatix_t4k71_fhd_30fps_video.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_t4k71_fhd_60fps.so:system/vendor/lib/libchromatix_t4k71_fhd_60fps.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_t4k71_hd_30fps.so:system/vendor/lib/libchromatix_t4k71_hd_30fps.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libchromatix_t4k71_hd_60fps.so:system/vendor/lib/libchromatix_t4k71_hd_60fps.so \
     vendor/motorola/otus/proprietary/vendor/lib/libcneapiclient.so:system/vendor/lib/libcneapiclient.so \
     vendor/motorola/otus/proprietary/vendor/lib/libcneconn.so:system/vendor/lib/libcneconn.so \
     vendor/motorola/otus/proprietary/vendor/lib/libcneqmiutils.so:system/vendor/lib/libcneqmiutils.so \
@@ -267,21 +231,13 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/vendor/lib/libmmcamera2_stats_modules.so:system/vendor/lib/libmmcamera2_stats_modules.so \
     vendor/motorola/otus/proprietary/vendor/lib/libmmcamera2_vpe_module.so:system/vendor/lib/libmmcamera2_vpe_module.so \
     vendor/motorola/otus/proprietary/vendor/lib/libmmcamera2_wnr_module.so:system/vendor/lib/libmmcamera2_wnr_module.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libmmcamera_ar0261.so:system/vendor/lib/libmmcamera_ar0261.so \
     vendor/motorola/otus/proprietary/vendor/lib/libmmcamera_faceproc.so:system/vendor/lib/libmmcamera_faceproc.so \
     vendor/motorola/otus/proprietary/vendor/lib/libmmcamera_hdr_gb_lib.so:system/vendor/lib/libmmcamera_hdr_gb_lib.so \
     vendor/motorola/otus/proprietary/vendor/lib/libmmcamera_hdr_lib.so:system/vendor/lib/libmmcamera_hdr_lib.so \
     vendor/motorola/otus/proprietary/vendor/lib/libmmcamera_imglib.so:system/vendor/lib/libmmcamera_imglib.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libmmcamera_imx132_eeprom.so:system/vendor/lib/libmmcamera_imx132_eeprom.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libmmcamera_imx132.so:system/vendor/lib/libmmcamera_imx132.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libmmcamera_imx135.so:system/vendor/lib/libmmcamera_imx135.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libmmcamera_imx179.so:system/vendor/lib/libmmcamera_imx179.so \
     vendor/motorola/otus/proprietary/vendor/lib/libmmcamera_mt9m114.so:system/vendor/lib/libmmcamera_mt9m114.so \
     vendor/motorola/otus/proprietary/vendor/lib/libmmcamera_mt9v113.so:system/vendor/lib/libmmcamera_mt9v113.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libmmcamera_ov10820.so:system/vendor/lib/libmmcamera_ov10820.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libmmcamera_ov8865.so:system/vendor/lib/libmmcamera_ov8865.so \
     vendor/motorola/otus/proprietary/vendor/lib/libmmcamera_s5k5e2.so:system/vendor/lib/libmmcamera_s5k5e2.so \
-    vendor/motorola/otus/proprietary/vendor/lib/libmmcamera_t4k71.so:system/vendor/lib/libmmcamera_t4k71.so \
     vendor/motorola/otus/proprietary/vendor/lib/libmmcamera_tintless_algo.so:system/vendor/lib/libmmcamera_tintless_algo.so \
     vendor/motorola/otus/proprietary/vendor/lib/libmmcamera_tintless_bg_pca_algo.so:system/vendor/lib/libmmcamera_tintless_bg_pca_algo.so \
     vendor/motorola/otus/proprietary/vendor/lib/libmmcamera_tuning.so:system/vendor/lib/libmmcamera_tuning.so \
