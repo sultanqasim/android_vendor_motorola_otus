@@ -151,7 +151,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/lib/libprovlib.so:system/lib/libprovlib.so \
     vendor/motorola/otus/proprietary/lib/libqmimotext.so:system/lib/libqmimotext.so \
     vendor/motorola/otus/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
-    vendor/motorola/otus/proprietary/lib/libqsap_sdk.so:system/lib/libqsap_sdk.so \
     vendor/motorola/otus/proprietary/lib/libsensorhubservice_jni.so:system/lib/libsensorhubservice_jni.so \
     vendor/motorola/otus/proprietary/lib/libslowmotionconverter.so:system/lib/libslowmotionconverter.so \
     vendor/motorola/otus/proprietary/lib/libslpc.so:system/lib/libslpc.so \
