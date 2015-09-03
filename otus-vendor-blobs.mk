@@ -25,8 +25,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/bin/batt_health:system/bin/batt_health \
     vendor/motorola/otus/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/motorola/otus/proprietary/bin/dbvc_atvc_property_set:system/bin/dbvc_atvc_property_set \
-    vendor/motorola/otus/proprietary/bin/diag_klog:system/bin/diag_klog \
-    vendor/motorola/otus/proprietary/bin/diag_mdlog:system/bin/diag_mdlog \
     vendor/motorola/otus/proprietary/bin/dropboxd:system/bin/dropboxd \
     vendor/motorola/otus/proprietary/bin/dropboxhelper:system/bin/dropboxhelper \
     vendor/motorola/otus/proprietary/bin/fmconfig:system/bin/fmconfig \
@@ -35,13 +33,9 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/bin/hardware_revisions.sh:system/bin/hardware_revisions.sh \
     vendor/motorola/otus/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/motorola/otus/proprietary/bin/irsc_util:system/bin/irsc_util \
-    vendor/motorola/otus/proprietary/bin/kpgather:system/bin/kpgather \
     vendor/motorola/otus/proprietary/bin/location-mq:system/bin/location-mq \
-    vendor/motorola/otus/proprietary/bin/mbm_spy:system/bin/mbm_spy \
     vendor/motorola/otus/proprietary/bin/mm-qcamera-app:system/bin/mm-qcamera-app \
     vendor/motorola/otus/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
-    vendor/motorola/otus/proprietary/bin/moto_com.sh:system/bin/moto_com.sh \
-    vendor/motorola/otus/proprietary/bin/mount_ext4.sh:system/bin/mount_ext4.sh \
     vendor/motorola/otus/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/motorola/otus/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/motorola/otus/proprietary/bin/newfs_msdos:system/bin/newfs_msdos \
@@ -51,14 +45,12 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/bin/qrngd:system/bin/qrngd \
     vendor/motorola/otus/proprietary/bin/qrngp:system/bin/qrngp \
     vendor/motorola/otus/proprietary/bin/qseecomd:system/bin/qseecomd \
-    vendor/motorola/otus/proprietary/bin/radish:system/bin/radish \
     vendor/motorola/otus/proprietary/bin/rfs_access:system/bin/rfs_access \
     vendor/motorola/otus/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/motorola/otus/proprietary/bin/stml0xx:system/bin/stml0xx \
     vendor/motorola/otus/proprietary/bin/subsystem_ramdump:system/bin/subsystem_ramdump \
     vendor/motorola/otus/proprietary/bin/tcmd:system/bin/tcmd \
     vendor/motorola/otus/proprietary/bin/tcmdhelp:system/bin/tcmdhelp \
-    vendor/motorola/otus/proprietary/bin/test_diag:system/bin/test_diag \
     vendor/motorola/otus/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/motorola/otus/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/motorola/otus/proprietary/bin/wcnss_filter:system/bin/wcnss_filter \
