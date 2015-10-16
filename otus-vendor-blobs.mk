@@ -49,8 +49,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/motorola/otus/proprietary/bin/stml0xx:system/bin/stml0xx \
     vendor/motorola/otus/proprietary/bin/subsystem_ramdump:system/bin/subsystem_ramdump \
-    vendor/motorola/otus/proprietary/bin/tcmd:system/bin/tcmd \
     vendor/motorola/otus/proprietary/bin/tcmdhelp:system/bin/tcmdhelp \
+    vendor/motorola/otus/proprietary/bin/tcmd:system/bin/tcmd \
     vendor/motorola/otus/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/motorola/otus/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/motorola/otus/proprietary/bin/wcnss_filter:system/bin/wcnss_filter \
@@ -150,6 +150,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/vendor/lib/libC2D2.so:system/vendor/lib/libC2D2.so \
     vendor/motorola/otus/proprietary/vendor/lib/libc2d30-a3xx.so:system/vendor/lib/libc2d30-a3xx.so \
     vendor/motorola/otus/proprietary/vendor/lib/libc2d30-a4xx.so:system/vendor/lib/libc2d30-a4xx.so \
+    vendor/motorola/otus/proprietary/vendor/lib/libc2d30.so:system/vendor/lib/libc2d30.so \
     vendor/motorola/otus/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
     vendor/motorola/otus/proprietary/vendor/lib/libchromatix_s5k5e2_common.so:system/vendor/lib/libchromatix_s5k5e2_common.so \
     vendor/motorola/otus/proprietary/vendor/lib/libchromatix_s5k5e2_default_video.so:system/vendor/lib/libchromatix_s5k5e2_default_video.so \
