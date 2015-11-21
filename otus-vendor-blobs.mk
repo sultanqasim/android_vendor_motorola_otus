@@ -118,6 +118,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/lib/libpkip.so:system/lib/libpkip.so \
     vendor/motorola/otus/proprietary/lib/libqmimotext.so:system/lib/libqmimotext.so \
     vendor/motorola/otus/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
+    vendor/motorola/otus/proprietary/lib/libspeakerbundle.so:system/lib/libspeakerbundle.so \
     vendor/motorola/otus/proprietary/lib/libSTML0Updater.so:system/lib/libSTML0Updater.so \
     vendor/motorola/otus/proprietary/lib/libstm-log.so:system/lib/libstm-log.so \
     vendor/motorola/otus/proprietary/lib/libtpa_core.so:system/lib/libtpa_core.so \
