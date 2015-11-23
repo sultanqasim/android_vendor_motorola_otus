@@ -27,8 +27,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/bin/dbvc_atvc_property_set:system/bin/dbvc_atvc_property_set \
     vendor/motorola/otus/proprietary/bin/dropboxd:system/bin/dropboxd \
     vendor/motorola/otus/proprietary/bin/dropboxhelper:system/bin/dropboxhelper \
-    vendor/motorola/otus/proprietary/bin/fmconfig:system/bin/fmconfig \
-    vendor/motorola/otus/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
     vendor/motorola/otus/proprietary/bin/gpsone_daemon:system/bin/gpsone_daemon \
     vendor/motorola/otus/proprietary/bin/hardware_revisions.sh:system/bin/hardware_revisions.sh \
     vendor/motorola/otus/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
