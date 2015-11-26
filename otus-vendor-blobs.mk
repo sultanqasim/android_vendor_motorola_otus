@@ -19,39 +19,24 @@ PRODUCT_COPY_FILES := vendor/motorola/otus/proprietary/vendor/lib/libtime_genoff
 
 PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/bin/adsprpcd:system/bin/adsprpcd \
-    vendor/motorola/otus/proprietary/bin/ap_gain.bin:system/bin/ap_gain.bin \
-    vendor/motorola/otus/proprietary/bin/ap_gain_mmul.bin:system/bin/ap_gain_mmul.bin \
     vendor/motorola/otus/proprietary/bin/ATFWD-daemon:system/bin/ATFWD-daemon \
     vendor/motorola/otus/proprietary/bin/batt_health:system/bin/batt_health \
     vendor/motorola/otus/proprietary/bin/btnvtool:system/bin/btnvtool \
-    vendor/motorola/otus/proprietary/bin/dbvc_atvc_property_set:system/bin/dbvc_atvc_property_set \
-    vendor/motorola/otus/proprietary/bin/dropboxd:system/bin/dropboxd \
-    vendor/motorola/otus/proprietary/bin/dropboxhelper:system/bin/dropboxhelper \
-    vendor/motorola/otus/proprietary/bin/gpsone_daemon:system/bin/gpsone_daemon \
     vendor/motorola/otus/proprietary/bin/hardware_revisions.sh:system/bin/hardware_revisions.sh \
     vendor/motorola/otus/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/motorola/otus/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/motorola/otus/proprietary/bin/location-mq:system/bin/location-mq \
-    vendor/motorola/otus/proprietary/bin/mm-qcamera-app:system/bin/mm-qcamera-app \
     vendor/motorola/otus/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/motorola/otus/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/motorola/otus/proprietary/bin/netmgrd:system/bin/netmgrd \
-    vendor/motorola/otus/proprietary/bin/newfs_msdos:system/bin/newfs_msdos \
-    vendor/motorola/otus/proprietary/bin/ptt_socket_app:system/bin/ptt_socket_app \
     vendor/motorola/otus/proprietary/bin/qmi_motext_hook:system/bin/qmi_motext_hook \
     vendor/motorola/otus/proprietary/bin/qmuxd:system/bin/qmuxd \
-    vendor/motorola/otus/proprietary/bin/qrngd:system/bin/qrngd \
-    vendor/motorola/otus/proprietary/bin/qrngp:system/bin/qrngp \
     vendor/motorola/otus/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/motorola/otus/proprietary/bin/rfs_access:system/bin/rfs_access \
     vendor/motorola/otus/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/motorola/otus/proprietary/bin/stml0xx:system/bin/stml0xx \
-    vendor/motorola/otus/proprietary/bin/subsystem_ramdump:system/bin/subsystem_ramdump \
-    vendor/motorola/otus/proprietary/bin/tcmdhelp:system/bin/tcmdhelp \
-    vendor/motorola/otus/proprietary/bin/tcmd:system/bin/tcmd \
     vendor/motorola/otus/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/motorola/otus/proprietary/bin/time_daemon:system/bin/time_daemon \
-    vendor/motorola/otus/proprietary/bin/wcnss_filter:system/bin/wcnss_filter \
     vendor/motorola/otus/proprietary/bin/xtwifi-client:system/bin/xtwifi-client \
     vendor/motorola/otus/proprietary/bin/xtwifi-inet-agent:system/bin/xtwifi-inet-agent \
     vendor/motorola/otus/proprietary/etc/acdbdata/Bluetooth_cal.acdb:system/etc/acdbdata/Bluetooth_cal.acdb \
@@ -99,7 +84,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/lib/libcnefeatureconfig.so:system/lib/libcnefeatureconfig.so \
     vendor/motorola/otus/proprietary/lib/libdmengine.so:system/lib/libdmengine.so \
     vendor/motorola/otus/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
-    vendor/motorola/otus/proprietary/lib/libfilterpack_facedetect.so:system/lib/libfilterpack_facedetect.so \
     vendor/motorola/otus/proprietary/lib/libGLESv3.so:system/lib/libGLESv3.so \
     vendor/motorola/otus/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/motorola/otus/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
@@ -118,7 +102,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/motorola/otus/proprietary/lib/libspeakerbundle.so:system/lib/libspeakerbundle.so \
     vendor/motorola/otus/proprietary/lib/libSTML0Updater.so:system/lib/libSTML0Updater.so \
-    vendor/motorola/otus/proprietary/lib/libstm-log.so:system/lib/libstm-log.so \
     vendor/motorola/otus/proprietary/lib/libtpa_core.so:system/lib/libtpa_core.so \
     vendor/motorola/otus/proprietary/lib/libtpa.so:system/lib/libtpa.so \
     vendor/motorola/otus/proprietary/lib/soundfx/libmmieffectswrapper.so:system/lib/soundfx/libmmieffectswrapper.so \
