@@ -19,6 +19,7 @@ PRODUCT_COPY_FILES := vendor/motorola/otus/proprietary/vendor/lib/libtime_genoff
 
 PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/bin/adsprpcd:system/bin/adsprpcd \
+    vendor/motorola/otus/proprietary/bin/ATFWD-daemon:system/bin/ATFWD-daemon \
     vendor/motorola/otus/proprietary/bin/batt_health:system/bin/batt_health \
     vendor/motorola/otus/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/motorola/otus/proprietary/bin/hardware_revisions.sh:system/bin/hardware_revisions.sh \
