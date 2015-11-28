@@ -32,6 +32,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/motorola/otus/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/motorola/otus/proprietary/bin/rfs_access:system/bin/rfs_access \
+    vendor/motorola/otus/proprietary/bin/rild:system/bin/rild \
     vendor/motorola/otus/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/motorola/otus/proprietary/bin/stml0xx:system/bin/stml0xx \
     vendor/motorola/otus/proprietary/bin/thermal-engine:system/bin/thermal-engine \
@@ -99,6 +100,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/lib/libpkip.so:system/lib/libpkip.so \
     vendor/motorola/otus/proprietary/lib/libqmimotext.so:system/lib/libqmimotext.so \
     vendor/motorola/otus/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
+    vendor/motorola/otus/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/motorola/otus/proprietary/lib/libspeakerbundle.so:system/lib/libspeakerbundle.so \
     vendor/motorola/otus/proprietary/lib/libSTML0Updater.so:system/lib/libSTML0Updater.so \
     vendor/motorola/otus/proprietary/lib/libtpa_core.so:system/lib/libtpa_core.so \
