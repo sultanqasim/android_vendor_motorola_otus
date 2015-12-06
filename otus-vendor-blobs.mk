@@ -81,7 +81,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/lib/hw/sensors.msm8610.so:system/lib/hw/sensors.msm8610.so \
     vendor/motorola/otus/proprietary/lib/libactions_irservice_stm.so:system/lib/libactions_irservice_stm.so \
     vendor/motorola/otus/proprietary/lib/libadropbox.so:system/lib/libadropbox.so \
-    vendor/motorola/otus/proprietary/lib/libcnefeatureconfig.so:system/lib/libcnefeatureconfig.so \
     vendor/motorola/otus/proprietary/lib/libdmengine.so:system/lib/libdmengine.so \
     vendor/motorola/otus/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
     vendor/motorola/otus/proprietary/lib/libGLESv3.so:system/lib/libGLESv3.so \
